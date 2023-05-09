@@ -5,7 +5,7 @@ Reach out to me through my [website](https://buddywhitman.vercel.app)
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
  ----
 
-### I develop, design and.. talk most o the time
+### I develop, design and... write(sometimes)
 
 ~~I'm also very old~~
 
@@ -19,7 +19,7 @@ Please do not send me more spam job emails. I want to work at Mcdonalds.
 
 | Skill | Description |
 | ----- | ----------- |
-| Embedded Systems | Arduino CC and almost every sensor/microcontroller in the market for half my life, also worked with a lot of Raspberry Pi py/c libraries |
+| Embedded Systems | Arduino CC and almost every sensor/microcontroller in the market for half my life, also worked with a lot of Raspberry Pi py/c libraries
 | Web Development | Full Stack with java/c++/py backend and Reactjs/NextJs/Angular Frontend |
 | Machine Learning | DL with opencv and tensorflow |
 | Cyber Security | Kali Linux - Metasploit, nmap, burpsuite, aircrack, hydra, wireshark; ParrotOS |
@@ -32,25 +32,7 @@ Please do not send me more spam job emails. I want to work at Mcdonalds.
 
 -----
 
-<!---
-#### Github Stats
 
-I too am extraordinarily humble
-
-<details>
-  <summary>Stats</summary>
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
-</a><a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&langs_count=9&hide=css,html" />
-</a><a href="https://github.com/Daggy1234">
- <img src="https://raw.githubusercontent.com/Daggy1234/generate-stats/master/generated/overview.svg" />
-</a><a href="https://github.com/Daggy1234">
- <img src="https://raw.githubusercontent.com/Daggy1234/generate-stats/master/generated/languages.svg" />
- </a>
-</details>
-  
------
 
 #### My Stats
 
@@ -77,9 +59,6 @@ VS Code                  4 mins              ░░░░░░░░░░░�
 Mac                      12 hrs 54 mins      █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in Python** 
-
 ```text
 Python                   20 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
 TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
@@ -91,7 +70,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 21/12/2022
 <!--END_SECTION:waka-->
 
 -----
