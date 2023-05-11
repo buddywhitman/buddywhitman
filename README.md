@@ -19,9 +19,9 @@ I build RESTful APIs and web services with agile workflows.
 
 | Skill | Description |
 | ----- | ----------- |
-| Langauges | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+ & DOM Manipulation) JavaScript, Objective C |
+| Langauges | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+ & DOM Manipulation) JavaScript, Objective C, Swift |
 | Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Cycle, Three, Next, Spring, Flutter, Spring, Flask, Express, ChakraUI |
-| Caching Mechanisms | Nginx, Apache, GraphQL, Swift, Varnish, Memcached, jQuery, Django |
+| Caching Mechanisms | Nginx, Apache, GraphQL, Varnish, Memcached, jQuery, Django |
 | Data Visualisation/ML | Tableau, PowerBI, Infogram, QGIS, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
 | Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash, Storm, BullMQ, OpenSearch |
 | Databases | Oracle DBMS, PostgreSQL, MongoDB, Redis, MySQL, NoSQL |
