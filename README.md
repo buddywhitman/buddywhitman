@@ -37,12 +37,12 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
 | Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, SNS, DynamoDB, EKS; Azure; GCP; Firebase |
 | PM/Docs | Jira, Md, LaTex, Mermaid, Gantt Charts, Kanpan Boards, Lucidchart, Notion, Visio, Project |
-| IDEs | VSC, VS, NetBeans, Xojo, IntelliJ, Eclipse, JetBrains IDEs, CLoud9, Arduino, Zerynth Studio |
+| IDEs | VSC, VS, NetBeans, Xojo, IntelliJ, Eclipse, JetBrains IDEs, Android Studio, Xcode, CLoud9, Arduino, Zerynth Studio |
 | OS/RTOS | Windows, OSX, Ubuntu, Debian, FreeBSD, Raspbian, Kali, Tails, Zephyr, Free RTOS |
 | Compilers/Kernels | GCC, LLVM, CLANG, Kernel Dev for Linux, QNX, Windows, XLA, TVM, Halide |
 | Graphics APIs | CUDA, OpenCL, OpenGL, DirectX, Vulkan }
 | CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad, Cadence (Virtuso), OrCAD, Siemens NX, Catia |
-| Design | Adobe CC, Autodesk Suite (Alias, Inventor, Fusion360), Sketch, InVision, Figma, Lunacy, DaVinci Resolve, OBS, Android Studio, Xcode, Axure, Protopie, Miro, Unity
+| Design | Adobe CC, Autodesk Suite (Alias, Inventor, Fusion360), Sketch, InVision, Figma, Lunacy, DaVinci Resolve, OBS, Axure, Protopie, Miro, Unity
                         Strong responsive & adaptive design and human-centered interaction principles for the web              
 
 -----
