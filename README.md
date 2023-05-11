@@ -47,18 +47,6 @@ I'm also into embedded development and hardware prototyping for distributed and 
 -----
 
 
-
-#### My Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2010%20mins-blue)
-
-Last Updated on 11/05/2023
-<!--END_SECTION:waka-->
-
------
--->
-
 Contact Info:
 
 - Discord: `buddywhitman#1784
