@@ -49,7 +49,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 
 Contact Info:
 
-- Discord: `buddywhitman#1784
+- Discord: buddywhitman#1784
 - Email: pulkit.talks@gmail.com
 - Gpg Key: [Key](https://github.com/buddywhitman.gpg)
 
