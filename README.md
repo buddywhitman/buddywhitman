@@ -17,6 +17,7 @@ Reach out to me through my [website](https://buddywhitman.vercel.app)
 
 
 I build RESTful APIs and web services with agile workflows.
+
 I'm also into embedded development and hardware prototyping for distributed and HPC systems.
 
 | Skill | Description |
