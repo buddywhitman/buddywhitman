@@ -16,10 +16,14 @@ Reach out to me through my [website](https://buddywhitman.vercel.app)
 #### Skills
 
 I build RESTful APIs and web services with agile workflows.
+I'm also into embedded development and hardware prototyping for distributed and HPC systems.
 
 | Skill | Description |
 | ----- | ----------- |
 | Langauges | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+ & DOM Manipulation) JavaScript, Objective C, Swift |
+| HW Langs | Assembly, Rust, Perl, Tcl, Verilog, VHDL, System Verilog, SystemC, Lua, Scheme |
+| Comm. Protcols | I2C, SPI, UART, PCIe, USB, CAN, SATA, RF, BLE, TCP/IP |
+| Architectures | Computer Architecture (von Neumann & Harvard); CPU/GPU Architecture; x86 & 64-bit ARM v8-A,M,R; Microarchitecture |
 | Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Cycle, Three, Next, Spring, Flutter, Spring, Flask, Express, ChakraUI |
 | Caching Mechanisms | Nginx, Apache, GraphQL, Varnish, Memcached, jQuery, Django |
 | Data Visualisation/ML | Tableau, PowerBI, Infogram, QGIS, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
