@@ -18,12 +18,9 @@ Reach out to me through my [website](https://buddywhitman.vercel.app)
 I build RESTful APIs and web services with agile workflows.
 I'm also into embedded development and hardware prototyping for distributed and HPC systems.
 
-| Skill | Description |
-| ----- | ----------- |
 | Langauges | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+ & DOM Manipulation) JavaScript, Objective C, Swift |
-| HW Langs | Assembly, Rust, Perl, Tcl, Verilog, VHDL, System Verilog, SystemC, Lua, Scheme |
-| Comm. Protcols | I2C, SPI, UART, PCIe, USB, CAN, SATA, RF, BLE, TCP/IP |
-| Architectures | Computer Architecture (von Neumann & Harvard); CPU/GPU Architecture; x86 & 64-bit ARM v8-A,M,R; Microarchitecture |
+| HW Languages | Assembly, Rust, Perl, Tcl, Verilog, VHDL, Scheme, System Verilog, SystemC, Lua |
+| Architecture | Computer Arch (von Nuemann & Harvard), CPU/GPU Arch, x86 & 64-bit ARM Cortex v8-A,M,R, Microarchitecture |
 | Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Cycle, Three, Next, Spring, Flutter, Spring, Flask, Express, ChakraUI |
 | Caching Mechanisms | Nginx, Apache, GraphQL, Varnish, Memcached, jQuery, Django |
 | Data Visualisation/ML | Tableau, PowerBI, Infogram, QGIS, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
@@ -32,10 +29,16 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | CI/CD | Jenkins, Travis, Git, Vercel, Perforce, GitLab, GitHub Actions |
 | Container Orchestration | Docker, Kubernetes, Nomad, OpenShift, Minikube, Docker Compose |
 | Auth/Messaging | OAuth, OpenID, SSO, Webtokens, JSON, ZMQ, MQTT, IFFT
+| Comm. Protocols | I2C, SPI, UART, PCIe, USB, CAN, SATA, RF, BLE, TCP/IP |
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
 | Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, SNS, DynamoDB, EKS; Azure; GCP; Firebase |
 | PM/Docs | Jira, Md, LaTex, Mermaid, Gantt Charts, Kanpan Boards, Lucidchart |
-| Design | Adobe CC, Sketch, InVision, Figma, DaVinci Resolve Android Studio, Xcode, Axure, Protopie, Miro,
+| IDEs | 
+| OS/RTOS | Windows, OSX, Ubuntu, Debian, FreeBSD, Raspbian, Kali, Tails, Zephyr, Free RTOS |
+| Compilers/Kernels | GCC, LLVM, CLANG, Kernel Dev for Linux, QNX, Windows, XLA, TVM, Halide |
+| Graphics APIs | CUDA, OpenCL, OpenGL, DirectX, Vulkan }
+| CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad, Cadence (Virtuso), OrCAD, Siemens NX, Catia |
+| Design | Adobe CC, Autodesk Suite (Alias, Inventor, Fusion360), Sketch, InVision, Figma, DaVinci Resolve Android Studio, Xcode, Axure, Protopie, Miro
                         Strong responsive & adaptive design and human-centered interaction principles for the web              
 
 -----
