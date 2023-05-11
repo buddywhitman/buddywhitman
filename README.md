@@ -20,15 +20,18 @@ Please do not send me more spam job emails. I want to work at Mcdonalds.
 | Skill | Description |
 | ----- | ----------- |
 | Embedded Systems | Arduino CC and almost every sensor/microcontroller in the market for half my life, also worked with a lot of Raspberry Pi py/c libraries
-| Web Development | Full Stack with java/c++/py backend and Reactjs/NextJs/Angular Frontend |
-| Machine Learning | DL with opencv and tensorflow |
-| Cyber Security | Kali Linux - Metasploit, nmap, burpsuite, aircrack, hydra, wireshark; ParrotOS |
-| Databases | Normalization, Queries with PostgreSQL, Mongo, redis and Fauna |
-| Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |
-| Docker | Skilled Containerization of workloads |
-| Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
-| Serverless | Cloud functions, firebase and container runtimes |
-| Design | I can work with the entire Adobe CC Suite, although I have the most xp with Adobe Xd |
+| Caching Mechanisms | Full Stack with java/c++/py backend and Reactjs/NextJs/Angular Frontend |
+| Data Visualisation/ML | Tableau, PowerBI, Infogram, QGIS, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
+| Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash, Storm, BullMQ, OpenSearch |
+| Databases | Oracle DBMS, PostgreSQL, MongoDB, Redis, MySQL, NoSQL |
+| CI/CD | Jenkins, Travis, Git, Vercel, Perforce, GitLab, GitHub Actions |
+| Container Orchestration | Docker, Kubernetes, Nomad, OpenShift, Minikube, Docker Compose |
+| Auth/Messaging | OAuth, OpenID, SSO, Webtokens, JSON, ZMQ, MQTT, IFFT
+| Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
+| Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, SNS, DynamoDB, EKS; Azure; GCP; Firebase |
+| PM/Docs | Jira, Md, LaTex, Mermaid, Gantt Charts, Kanpan Boards, Lucidchart |
+| Design | Adobe CC, Sketch, InVision, Figma, DaVinci Resolve Android Studio, Xcode, Axure, Protopie, Miro,
+                        Strong adaptive & human-centered interaction design principles for web              |
 
 -----
 
