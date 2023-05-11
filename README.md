@@ -54,38 +54,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2010%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   11 hrs 51 mins      ███████████████████████░░   91.81% 
-TOML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
-Dart                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
-
-🔥 Editors: 
-Sublime Text             12 hrs 50 mins      ████████████████████████░   99.45% 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
-
-💻 Operating System: 
-Mac                      12 hrs 54 mins      █████████████████████████   100.0%
-
-```
-```text
-Python                   20 repos            █████████░░░░░░░░░░░░░░░░   35.71% 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-Rust                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-
- Last Updated on 21/12/2022
+Last Updated on 11/05/2023
 <!--END_SECTION:waka-->
 
 -----
@@ -93,10 +62,8 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 Contact Info:
 
-- Discord: `buddywhitman#1784`
-- Server: https://discord.com/invite/MZM9Ctkrcb
+- Discord: `buddywhitman#1784
 - Email: pulkit.talks@gmail.com
-- Issue on this repo
 - Gpg Key: [Key](https://github.com/buddywhitman.gpg)
 
 -----
