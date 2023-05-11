@@ -5,7 +5,7 @@ Reach out to me through my [website](https://buddywhitman.vercel.app)
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
  ----
 
-### I develop, design and... write(sometimes)
+### I develop, design and... write (sometimes)
 
 ~~I'm also very old~~
 
@@ -15,12 +15,13 @@ Reach out to me through my [website](https://buddywhitman.vercel.app)
 
 #### Skills
 
-Please do not send me more spam job emails. I want to work at Mcdonalds.
+I build RESTful APIs and web services with agile workflows.
 
 | Skill | Description |
 | ----- | ----------- |
-| Embedded Systems | Arduino CC and almost every sensor/microcontroller in the market for half my life, also worked with a lot of Raspberry Pi py/c libraries
-| Caching Mechanisms | Full Stack with java/c++/py backend and Reactjs/NextJs/Angular Frontend |
+| Langauges | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+ & DOM Manipulation) JavaScript, Objective C |
+| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Cycle, Three, Next, Spring, Flutter, Spring, Flask, Express, ChakraUI |
+| Caching Mechanisms | Nginx, Apache, GraphQL, Swift, Varnish, Memcached, jQuery, Django |
 | Data Visualisation/ML | Tableau, PowerBI, Infogram, QGIS, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
 | Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash, Storm, BullMQ, OpenSearch |
 | Databases | Oracle DBMS, PostgreSQL, MongoDB, Redis, MySQL, NoSQL |
@@ -31,7 +32,7 @@ Please do not send me more spam job emails. I want to work at Mcdonalds.
 | Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, SNS, DynamoDB, EKS; Azure; GCP; Firebase |
 | PM/Docs | Jira, Md, LaTex, Mermaid, Gantt Charts, Kanpan Boards, Lucidchart |
 | Design | Adobe CC, Sketch, InVision, Figma, DaVinci Resolve Android Studio, Xcode, Axure, Protopie, Miro,
-                        Strong adaptive & human-centered interaction design principles for web              |
+                        Strong responsive & adaptive design and human-centered interaction principles for the web              
 
 -----
 
