@@ -21,7 +21,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 
 | Skill | Description |
 | ----- | ----------- |
-| SW Languages | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+ & DOM Manipulation) JavaScript, Objective C, Swift |
+| SW Languages | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+) JavaScript, Objective C, Swift |
 | HW Languages | Assembly, Rust, Perl, Tcl, Verilog, VHDL, Scheme, System Verilog, SystemC, Lua |
 | Architecture | Computer Arch (von Nuemann & Harvard), CPU/GPU Arch, x86 & 64-bit ARM Cortex v8-A,M,R, Microarchitecture |
 | Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Cycle, Three, Next, Spring, Flutter, Spring, Flask, Express, ChakraUI |
