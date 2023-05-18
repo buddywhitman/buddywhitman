@@ -1,6 +1,6 @@
 ### Heyy there 👋
 
-Reach out to me through my [website](https://buddywhitman.vercel.app)
+Reach out to me through my [website](https://buddywhitman.vercel.app) or [discord](discord://-/users/732152359882457138)
 
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
  ----
@@ -49,7 +49,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 
 Contact Info:
 
-- Discord: buddywhitman#1784
+- Discord: [buddywhitman#1784](discord://-/users/732152359882457138)
 - Email: pulkit.talks@gmail.com
 - Gpg Key: [Key](https://github.com/buddywhitman.gpg)
 
