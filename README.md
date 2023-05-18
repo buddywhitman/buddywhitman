@@ -1,6 +1,6 @@
 ### Heyy there 👋
 
-Reach out to me through my [website](https://buddywhitman.vercel.app) or [discord](discord.com/users/732152359882457138)
+Reach out to me through my [website](https://buddywhitman.vercel.app) or [discord](https://buddywhitman.vercel.app)
 
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
  ----
