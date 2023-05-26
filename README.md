@@ -25,6 +25,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | HW Languages | Assembly, Rust, Perl, Tcl, Verilog, VHDL, Scheme, System Verilog, SystemC, Lua |
 | Architecture | Computer Arch (von Nuemann & Harvard), CPU/GPU Arch, x86 & 64-bit ARM Cortex v8-A,M,R, Microarchitecture |
 | Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Gatsby, Laravel, Next, Spring, Flutter, Flask, Express, ChakraUI, Ruby on Rails |
+| CN/Protocols | TCP/IP, I2C, SPI, UART, PCIe, USB, CAN, SATA, RF, BLE |
 | Caching Mechanisms | Nginx, Apache, GraphQL, Varnish, Memcached, jQuery, Django |
 | Data Visualisation/ML | Tableau, PowerBI, Infogram, QGIS, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
 | Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash, Storm, BullMQ, OpenSearch |
@@ -32,7 +33,6 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | CI/CD | Jenkins, Travis, Git, Vercel, Perforce, GitLab, GitHub Actions |
 | Container Orchestration | Docker, Kubernetes, Nomad, OpenShift, Minikube, Docker Compose |
 | Auth/Messaging | OAuth, OpenID, SSO, Webtokens, JSON, ZMQ, MQTT, IFFT |
-| Comm. Protocols | I2C, SPI, UART, PCIe, USB, CAN, SATA, RF, BLE, TCP/IP |
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
 | Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, SNS, DynamoDB, EKS; Azure; GCP; Firebase |
 | PM/Docs | Jira, Md, LaTex, Mermaid, Gantt Charts, Kanpan Boards, Lucidchart, Notion, Visio, Project |
