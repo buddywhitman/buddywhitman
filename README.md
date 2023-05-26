@@ -36,7 +36,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
 | Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, SNS, DynamoDB, EKS; Azure; GCP; Firebase |
 | Tests/Lint | Jest, Enzyme, RTL, ESLint, Prettier, Commitlint |
-| PM/Docs | Jira, Md, LaTex, Mermaid, Confluence, Gantt Charts, Kanpan Boards, Lucidchart, Notion, Visio, Project, Slack, Teams |
+| PM/Docs | Jira, Md, LaTex, Mermaid, Confluence, Gantt Charts, Kanpan Boards, Lucidchart, Notion, Visio, Project |
 | IDEs | VSC, VS, NetBeans, Xojo, IntelliJ, Eclipse, JetBrains IDEs, Android Studio, Xcode, CLoud9, Arduino, Zerynth Studio |
 | OS/RTOS | Windows, OSX, Ubuntu, Debian, FreeBSD, Raspbian, Kali, Tails, Zephyr, Free RTOS, Mbed OS |
 | Compilers/Kernels | GCC, LLVM, CLANG, Kernel Dev for Linux, QNX, Windows, XLA, TVM, Halide |
