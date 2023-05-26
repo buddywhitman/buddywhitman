@@ -42,7 +42,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | Compilers/Kernels | GCC, LLVM, CLANG, Kernel Dev for Linux, QNX, Windows, XLA, TVM, Halide |
 | Graphics APIs | CUDA, OpenCL, OpenGL, DirectX, Vulkan |
 | CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad, Cadence (Virtuso), OrCAD, Siemens NX, Catia |
-| Design | Adobe CC, Autodesk Suite (Alias, Inventor, Fusion360), Sketch, InVision, Figma, Lunacy, DaVinci Resolve, OBS, Axure, Protopie, Miro, Unity
+| Design | Adobe CC, Autodesk Suite (Alias, Inventor, Fusion360), Sketch, InVision, Figma, Lunacy, DaVinci Resolve, OBS, Axure, Protopie, Miro, Unity, Zeppelin, Balsamig
                         Strong responsive & adaptive design and human-centered interaction principles for the web              
 
 -----
