@@ -16,28 +16,29 @@ Reach out to me through my [website](https://buddywhitman.vercel.app) or [discor
 #### Skills
 
 
-I build RESTful APIs and web services with agile workflows.
+I build responsive PWAs and SOLID RESTful web services with agile workflows.
 I'm also into embedded development and hardware prototyping for distributed and HPC systems.
 
 | Skill | Description |
 | ----- | ----------- |
-| SW Languages | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+) JavaScript, PHP, Ruby, Objective C, Swift |
+| SW Languages | Java, Go, Kotlin, Python, C/C++, TypeScript, (Vanilla ES6+) JavaScript, PHP, Ruby, .NET, Objective C, Swift |
 | HW Languages | Assembly, Rust, Perl, Tcl, Verilog, VHDL, Scheme, System Verilog, SystemC, Lua |
 | Architecture | Computer Arch (von Nuemann & Harvard), CPU/GPU Arch, x86 & 64-bit ARM Cortex v8-A,M,R, Microarchitecture |
-| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Gatsby, Laravel, Next, Spring, Flutter, Flask, Express, ChakraUI, Ruby on Rails |
-| CN/Protocols | TCP/IP, I2C, SPI, UART, PCIe, USB, CAN, SATA, RF, BLE |
+| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Gatsby, Laravel, Next, Spring, Flutter, Flask, Express, ChakraUI, Ruby on Rails, ASP.NET |
+| CN/Protocols | TCP/IP, GSM, LTE, BT, NFC, WiFi, I2C, SPI, UART, PCIe, USB, CAN, SATA, RF, BLE |
 | Caching Mechanisms | Nginx, Apache, GraphQL, Varnish, Memcached, jQuery, Django |
 | Data Visualisation/ML | Tableau, PowerBI, Infogram, QGIS, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
 | Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash, Storm, BullMQ, OpenSearch |
-| Databases | Oracle DBMS, PostgreSQL, MongoDB, Redis, MySQL, NoSQL |
-| CI/CD | Jenkins, Travis, Git, Vercel, Perforce, GitLab, GitHub Actions |
+| Databases | MySQL, Oracle DBMS, PostgreSQL, MongoDB, Redis, MariaDB |
+| CI/CD | Jenkins, Travis, Git, Vercel, Perforce, GitLab, GitHub Actions, TeamCity |
 | Container Orchestration | Docker, Kubernetes, Nomad, OpenShift, Minikube, Docker Compose |
 | Auth/Messaging | OAuth, OpenID, SSO, Webtokens, JSON, ZMQ, MQTT, IFFT |
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
 | Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, SNS, DynamoDB, EKS; Azure; GCP; Firebase |
-| PM/Docs | Jira, Md, LaTex, Mermaid, Gantt Charts, Kanpan Boards, Lucidchart, Notion, Visio, Project |
+| Tests/Lint | Jest, Enzyme, RTL, ESLint, Prettier, Commitlint |
+| PM/Docs | Jira, Md, LaTex, Mermaid, Confluence, Gantt Charts, Kanpan Boards, Lucidchart, Notion, Visio, Project, Slack, Teams |
 | IDEs | VSC, VS, NetBeans, Xojo, IntelliJ, Eclipse, JetBrains IDEs, Android Studio, Xcode, CLoud9, Arduino, Zerynth Studio |
-| OS/RTOS | Windows, OSX, Ubuntu, Debian, FreeBSD, Raspbian, Kali, Tails, Zephyr, Free RTOS |
+| OS/RTOS | Windows, OSX, Ubuntu, Debian, FreeBSD, Raspbian, Kali, Tails, Zephyr, Free RTOS, Mbed OS |
 | Compilers/Kernels | GCC, LLVM, CLANG, Kernel Dev for Linux, QNX, Windows, XLA, TVM, Halide |
 | Graphics APIs | CUDA, OpenCL, OpenGL, DirectX, Vulkan |
 | CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad, Cadence (Virtuso), OrCAD, Siemens NX, Catia |
