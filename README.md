@@ -23,26 +23,14 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | ----- | ----------- |
 | SW Languages | Java, C/C++, JavaScript (ES6+), Python |
 | Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring, Flutter, ChakraUI |
-<!---
-, Ruby, .NET
-| CN/Protocols | BT, I2C, SPI, UART, CAN, RF, IR |
-| Caching Mechanisms | Nginx, Apache, GraphQL, Memcached, jQuery, Django |
-Gatsby, Laravel,Flask, Express, , Ruby on Rails, ASP.NET
- R, TensorFlow, Keras, OpenCV, PyTorch, NumPy
---->
 | Data Visualisation | Tableau, PowerBI |
-<!---| Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash |
-, Minikube, Docker Compose
-, Cadence (Virtuso), OrCAD, Siemens NX, Catia
-, Autodesk Suite (Alias, Inventor, Fusion360)
- OBS, Axure, Protopie, Miro,--->
 | Databases | MySQL, Oracle DBMS, PostgreSQL, MongoDB |
 | CI/CD | Jenkins, Travis, Git, Vercel, GitLab, GitHub Actions, TeamCity |
 | Container Orchestration | Docker, Kubernetes |
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
-| Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, DynamoDB; Azure; GCP; Firebase |
-| Tests/Lint | Jest, Enzyme, JUnit, ESLint, Prettier |
-| OS/RTOS | Windows, OSX, Ubuntu, Debian, FreeBSD, Raspbian, Kali, Tails 
+| Cloud | AWS EC2, S3(Java SDK); Azure; GCP; Firebase |
+| Tests/Lint | JUnit, ESLint, Prettier |
+| OS Envs | Windows, OSX, Ubuntu, Debian, Fedora, Raspbian, Kali |
 | CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad |
 | Design | Adobe CC, Sketch, InVision, Figma, Lunacy, DaVinci Resolve, Unity
                         Strong responsive & adaptive design and human-centered interaction principles for the web              
@@ -59,3 +47,18 @@ Contact Info:
 -----
 Have a Great Day!
 
+
+<!---, Ruby, .NET
+| CN/Protocols | BT, I2C, SPI, UART, CAN, RF, IR |
+| Caching Mechanisms | Nginx, Apache, GraphQL, Memcached, jQuery, Django |
+Gatsby, Laravel,Flask, Express, , Ruby on Rails, ASP.NET
+ R, TensorFlow, Keras, OpenCV, PyTorch, NumPy
+ , RDS, SQS, ECS, DynamoDB
+--->
+
+<!---| Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash |
+, Minikube, Docker Compose
+Jest, Enzyme,
+, Cadence (Virtuso), OrCAD, Siemens NX, Catia
+, Autodesk Suite (Alias, Inventor, Fusion360)
+ OBS, Axure, Protopie, Miro,--->
