@@ -21,21 +21,30 @@ I'm also into embedded development and hardware prototyping for distributed and 
 
 | Skill | Description |
 | ----- | ----------- |
-| SW Languages | Java, C/C++, JavaScript (ES6+), Python, Ruby, .NET|
-| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue, Gatsby, Laravel, Next, Spring, Flutter, Flask, Express, ChakraUI, Ruby on Rails, ASP.NET |
+| SW Languages | Java, C/C++, JavaScript (ES6+), Python |
+| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring, Flutter, ChakraUI |
+<!---
+, Ruby, .NET
 | CN/Protocols | BT, I2C, SPI, UART, CAN, RF, IR |
 | Caching Mechanisms | Nginx, Apache, GraphQL, Memcached, jQuery, Django |
-| Data Visualisation/ML | Tableau, PowerBI, R, TensorFlow, Keras, OpenCV, PyTorch, NumPy |
-| Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash |
+Gatsby, Laravel,Flask, Express, , Ruby on Rails, ASP.NET
+ R, TensorFlow, Keras, OpenCV, PyTorch, NumPy
+--->
+| Data Visualisation | Tableau, PowerBI |
+<!---| Data Processing | Spark, Scala, Hadoop, Elasticsearch, Kibana, Grafana, Kafka, Logstash |
+, Minikube, Docker Compose
+, Cadence (Virtuso), OrCAD, Siemens NX, Catia
+, Autodesk Suite (Alias, Inventor, Fusion360)
+ OBS, Axure, Protopie, Miro,--->
 | Databases | MySQL, Oracle DBMS, PostgreSQL, MongoDB |
 | CI/CD | Jenkins, Travis, Git, Vercel, GitLab, GitHub Actions, TeamCity |
-| Container Orchestration | Docker, Kubernetes, Minikube, Docker Compose |
+| Container Orchestration | Docker, Kubernetes |
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
 | Cloud | AWS EC2, S3(Java SDK), RDS, SQS, ECS, DynamoDB; Azure; GCP; Firebase |
 | Tests/Lint | Jest, Enzyme, JUnit, ESLint, Prettier |
 | OS/RTOS | Windows, OSX, Ubuntu, Debian, FreeBSD, Raspbian, Kali, Tails 
-| CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad, Cadence (Virtuso), OrCAD, Siemens NX, Catia |
-| Design | Adobe CC, Autodesk Suite (Alias, Inventor, Fusion360), Sketch, InVision, Figma, Lunacy, DaVinci Resolve, OBS, Axure, Protopie, Miro, Unity
+| CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad |
+| Design | Adobe CC, Sketch, InVision, Figma, Lunacy, DaVinci Resolve, Unity
                         Strong responsive & adaptive design and human-centered interaction principles for the web              
 
 -----
@@ -44,7 +53,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 Contact Info:
 
 - Discord: [buddywhitman#1784](https://discord.com/users/732152359882457138)
-- Email: pulkit.talks@gmail.com
+- Email: [Personal](mailto:pulkit.talks@gmail.com) | [University](mailto:pulkit.mitmpl2023@learner.manipal.edu)
 - Gpg Key: [Key](https://github.com/buddywhitman.gpg)
 
 -----
