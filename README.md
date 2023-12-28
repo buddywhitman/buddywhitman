@@ -5,7 +5,7 @@ Reach out to me through my [website](https://buddywhitman.vercel.app) or [discor
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
  ----
 
-### I develop, design and... write (sometimes)
+### I build, develop and... design (sometimes)
 
 ~~I'm also very old~~
 
@@ -21,18 +21,18 @@ I'm also into embedded development and hardware prototyping for distributed and 
 
 | Skill | Description |
 | ----- | ----------- |
-| SW Languages | Java, C/C++, JavaScript (ES6+), Python |
-| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring, Flutter, ChakraUI |
+| SW Languages | Java, C++, JavaScript (ES6+), Python, TypeScript, CSS, PHP, Perl, Tcl |
+| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring, Flutter, ChakraUI, Spring Boot, Django, Flask |
 | Data Visualisation | Tableau, PowerBI |
 | Databases | MySQL, Oracle DBMS, PostgreSQL, MongoDB |
 | CI/CD | Jenkins, Travis, Git, Vercel, GitLab, GitHub Actions, TeamCity |
 | Container Orchestration | Docker, Kubernetes |
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
-| Cloud | AWS EC2, S3(Java SDK); Azure; GCP; Firebase |
-| Tests/Lint | JUnit, ESLint, Prettier |
+| Cloud | AWS EC2, S3(Java SDK); Azure AI, ML Svc; Google Cloud Map, NLP APIs; Firebase |
+| Tests/Lint | JUnit, Mocha, Selenium, TestNG, ESLint, Prettier |
 | OS Envs | Windows, OSX, Ubuntu, Debian, Fedora, Raspbian, Kali |
 | CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad |
-| Design | Adobe CC, Sketch, InVision, Figma, Lunacy, DaVinci Resolve, Unity
+| Design | Adobe CC, Sketch, InVision, Figma, Lunacy, DaVinci Resolve
                         Strong responsive & adaptive design and human-centered interaction principles for the web              
 
 -----
