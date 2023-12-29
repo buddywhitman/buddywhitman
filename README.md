@@ -21,8 +21,8 @@ I'm also into embedded development and hardware prototyping for distributed and 
 
 | Skill | Description |
 | ----- | ----------- |
-| SW Languages | Java, C++, JavaScript (ES6+), Python, TypeScript, CSS, PHP, Perl, Tcl |
-| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring, Flutter, ChakraUI, Spring Boot, Django, Flask |
+| SW Languages | Java, C++, JavaScript (ES6+), Python, TypeScript, CSS, Embedded C, PHP, Perl |
+| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring Boot, Flutter, ChakraUI |
 | Data Visualisation | Tableau, PowerBI |
 | Databases | MySQL, Oracle DBMS, PostgreSQL, MongoDB |
 | CI/CD | Jenkins, Travis, Git, Vercel, GitLab, GitHub Actions, TeamCity |
@@ -48,7 +48,8 @@ Contact Info:
 Have a Great Day!
 
 
-<!---, Ruby, .NET
+<!---, Ruby, .NET, , PHP, Perl, Tcl 
+, Django, Flask
 | CN/Protocols | BT, I2C, SPI, UART, CAN, RF, IR |
 | Caching Mechanisms | Nginx, Apache, GraphQL, Memcached, jQuery, Django |
 Gatsby, Laravel,Flask, Express, , Ruby on Rails, ASP.NET
