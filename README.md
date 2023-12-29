@@ -23,10 +23,10 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | ----- | ----------- |
 | SW Languages | Java, C++, JavaScript (ES6+), Python, TypeScript, CSS, Embedded C, PHP, Perl |
 | Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring Boot, Flutter, ChakraUI |
-| Data Visualisation | Tableau, PowerBI |
+| Data Visualisation | Tableau, PowerBI, Infogram |
 | Databases | MySQL, Oracle DBMS, PostgreSQL, MongoDB |
 | CI/CD | Jenkins, Travis, Git, Vercel, GitLab, GitHub Actions, TeamCity |
-| Container Orchestration | Docker, Kubernetes |
+| Container Orchestration | Docker, Kubernetes. OpenShift, Perforce |
 | Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
 | Cloud | AWS EC2, S3(Java SDK); Azure AI, ML Svc; Google Cloud Map, NLP APIs; Firebase |
 | Tests/Lint | JUnit, Mocha, Selenium, TestNG, ESLint, Prettier |
