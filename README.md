@@ -31,7 +31,7 @@ I'm also into embedded development and hardware prototyping for distributed and 
 | Cloud | AWS EC2, S3(Java SDK); Azure AI, ML Svc; Google Cloud Map, NLP APIs; Firebase |
 | Tests/Lint | JUnit, Mocha, Selenium, TestNG, ESLint, Prettier |
 | OS Envs | Windows, OSX, Ubuntu, Debian, Fedora, Raspbian, Kali |
-| CAD | Blender, Solidworks (CREO), Altium, Eagle, KiCad |
+| CAD | Blender, Solidworks, Altium, Eagle, KiCad |
 | Design | Adobe CC, Sketch, InVision, Figma, Lunacy, DaVinci Resolve
                         Strong responsive & adaptive design and human-centered interaction principles for the web              
 
