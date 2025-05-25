@@ -16,27 +16,9 @@ Reach out through my [website](https://buddywhitman.tech) or [discord](https://d
 #### Skills
 
 
-I build responsive PWAs and SOLID RESTful web services with agile workflows.
-I'm also into embedded development and hardware prototyping for distributed and HPC systems.
+I build RAG agents, bionic arms, and solar racing EVs. I'm into kernel & embedded systems, distributed web services, GPU & Compiler software, CV/AV/ML Research, SoC/ASIC Design & Verification, and UI/UX Design.
 
-| Skill | Description |
-| ----- | ----------- |
-| SW Languages | Java, C++, JavaScript (ES6+), Python, TypeScript, CSS, Embedded C, PHP, Perl |
-| Frameworks/libs | React (With Redux, Router & Hooks), Angular, Node, Vue,  Next, Spring Boot, Flutter, ChakraUI |
-| Data Visualisation | Tableau, PowerBI, Infogram |
-| Databases | MySQL, Oracle DBMS, PostgreSQL, MongoDB |
-| CI/CD | Jenkins, Travis, Git, Vercel, GitLab, GitHub Actions, TeamCity |
-| Container Orchestration | Docker, Kubernetes. OpenShift, Perforce |
-| Build Tools | Babel, Webpack, Yarn, Chocolatey, npm, pip, Bash |
-| Cloud | AWS EC2, S3(Java SDK); Azure AI, ML Svc; Google Cloud Map, NLP APIs; Firebase |
-| Tests/Lint | JUnit, Mocha, Selenium, TestNG, ESLint, Prettier |
-| OS Envs | Windows, OSX, Ubuntu, Debian, Fedora, Raspbian, Kali |
-| CAD | Blender, Solidworks, Altium, Eagle, KiCad |
-| Design | Adobe CC, Sketch, InVision, Figma, Lunacy, DaVinci Resolve
-                        Strong responsive & adaptive design and human-centered interaction principles for the web              
-
------
-
+> Strong responsive & adaptive design, and human-centered interaction principles for the web
 
 Contact Info:
 
