@@ -16,7 +16,7 @@ Reach out through my [website](https://buddywhitman.tech) or [discord](https://d
 #### Skills
 
 
-I build RAG agents, bionic arms, and solar racing EVs. I'm into kernel & embedded systems, distributed web services, GPU & Compiler software, CV/AV/ML Research, SoC/ASIC Design & Verification, and UI/UX Design.
+I build RAG agents, bionic arms, and solar racing EVs. I'm into kernel & embedded systems, distributed web services, GPU & Compiler software, CV/AV/ML Research, SoC/ASIC Design & Verification, UI/HMI development, and UX Design.
 
 > Strong responsive & adaptive design, and human-centered interaction principles for the web
 
