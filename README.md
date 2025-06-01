@@ -11,7 +11,7 @@ Reach out through my [website](https://buddywhitman.tech) or [discord](https://d
 
 #### about
 
-Right now, I'm building RAG agents, bionic arms, recommendation engines and solar racing EVs. I'm into kernels & embedded systems, distributed web services, GPU & Compiler software, CV/ADAS/ML Research, SoC/ASIC Design & Verification, and UIUX/HMI design.
+Right now, I'm building RAG agents, bionic arms, recommendation engines, and solar racing EVs. I'm into kernels & embedded systems, distributed web services, GPU & Compiler software, CV/ADAS/ML Research, SoC/ASIC Design & Verification, and UI/UX/HMI design.
 
 > human-centered interaction principles for the web and beyond
 
