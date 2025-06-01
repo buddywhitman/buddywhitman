@@ -13,12 +13,11 @@ Reach out through my [website](https://buddywhitman.tech) or [discord](https://d
 
 -----
 
-#### Skills
+#### about
 
+Right now, I'm building RAG agents, bionic arms, recommendation engines and solar racing EVs. I'm into kernels & embedded systems, distributed web services, GPU & Compiler software, CV/ADAS/ML Research, SoC/ASIC Design & Verification, and UIUX/HMI design.
 
-I build RAG agents, bionic arms, and solar racing EVs. I'm into kernel & embedded systems, distributed web services, GPU & Compiler software, CV/AV/ML Research, SoC/ASIC Design & Verification, UI/HMI development, and UX Design.
-
-> Strong responsive & adaptive design, and human-centered interaction principles for the web
+> human-centered interaction principles for the web and beyond
 
 Contact Info:
 
@@ -27,7 +26,7 @@ Contact Info:
 - Gpg Key: [Key](https://github.com/buddywhitman.gpg)
 
 -----
-Have a Great Day!
+Have a great day!
 
 
 <!---, Ruby, .NET, , PHP, Perl, Tcl 
