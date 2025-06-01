@@ -9,10 +9,6 @@ Reach out through my [website](https://buddywhitman.tech) or [discord](https://d
 
 ~~I'm also very old~~
 
-## he/him or they/them
-
------
-
 #### about
 
 Right now, I'm building RAG agents, bionic arms, recommendation engines and solar racing EVs. I'm into kernels & embedded systems, distributed web services, GPU & Compiler software, CV/ADAS/ML Research, SoC/ASIC Design & Verification, and UIUX/HMI design.
