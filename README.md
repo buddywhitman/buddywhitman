@@ -15,7 +15,7 @@ Right now, I'm building RAG agents, bionic arms, recommendation engines, and sol
 
 > human-centered interaction principles for the web and beyond
 
-Contact Info:
+Feel free to reach out through:
 
 - Discord: [buddywhitman#1784](https://discord.com/users/732152359882457138)
 - Email: [Personal](mailto:pulkit.talks@gmail.com) | [University](mailto:pulkit.mitmpl2023@learner.manipal.edu)
