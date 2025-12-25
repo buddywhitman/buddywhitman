@@ -1,7 +1,7 @@
 ### Heyy there 👋
 
-Reach out through my [website](https://buddywhitman.tech) or [discord](https://discord.com/users/732152359882457138)
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
+Reach out through my [website](https://buddywhitman.tech) or [![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord)](https://discord.com/users/732152359882457138)
+
  ----
 
 ### I build, design and... run (sometimes)
