@@ -1,7 +1,6 @@
 ### Heyy there 👋
 
 Reach out through my [website](https://buddywhitman.tech) or [discord](https://discord.com/users/732152359882457138)
-
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
  ----
 
@@ -19,7 +18,7 @@ Feel free to reach out through:
 
 - Discord: [buddywhitman#1784](https://discord.com/users/732152359882457138)
 - Email: [Personal](mailto:pulkit.talks@gmail.com) | [University](mailto:pulkit.mitmpl2023@learner.manipal.edu)
-- Gpg [Key](https://github.com/buddywhitman.gpg)
+- [Gpg Key](https://github.com/buddywhitman.gpg)
 
 -----
 Have a great day!
