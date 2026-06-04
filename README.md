@@ -8,9 +8,9 @@
 
 #### about
 
-Right now, I'm building agentic AI, interactive holograms, and solar racing EVs. I'm interested in kernels & embedded systems, distributed inference pipelines & microservices, GPU & Compiler software, as well as NLP/ADAS/VLM research.
+Systems Integrator bridging bare-metal hardware and cloud AI. Currently building primary ECUs for solar EVs and distributed agentic pipelines for Guaq AI. Fluent in C firmware up to TypeScript multi-tenant SaaS
 
-> human-centered interaction principles for the web and beyond
+> human-centered interaction principles for the age of agents and beyond
 
 #### contact
 
