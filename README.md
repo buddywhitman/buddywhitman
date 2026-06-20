@@ -1,4 +1,4 @@
-## Systems engineer working across reliable AI infrastructure and deterministic embedded systems.
+## Systems engineer working across AI infrastructure and deterministic embedded systems.
 
 ### Current areas:
 
