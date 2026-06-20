@@ -20,3 +20,5 @@ Distributed systems · Reliability · Control theory · Embedded systems · Huma
 
 -----
 Have a great day!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=buddywhitman&show_icons=true&locale=en" alt="buddywhitman" /></p>
