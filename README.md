@@ -1,14 +1,14 @@
-### Heyy there 👋
+## Systems engineer working across reliable AI infrastructure and deterministic embedded systems.
 
- ----
+### Current areas:
 
-### I build, design, and... run (sometimes)
+- Voice AI infrastructure @ Fettle
+- Solar EV telemetry, controls and STM32H7 firmware @ SolarMobil
+- Neurotechnology and physiological interfaces
+- Distributed worker systems and observability
 
-~~I'm also very old~~
-
-#### about
-
-Systems Integrator bridging bare-metal hardware and cloud AI. Currently building primary ECUs for solar EVs and distributed agentic pipelines for Guaq AI. Fluent in C firmware up to TypeScript multi-tenant SaaS
+### Interests:
+Distributed systems · Reliability · Control theory · Embedded systems · Human-machine interfaces
 
 > human-centered interaction principles for the age of agents and beyond
 
