@@ -17,8 +17,3 @@ Distributed systems · Reliability · Control theory · Embedded systems · Huma
 - Email: [Personal](mailto:pulkit.talks@gmail.com) | [University](mailto:pulkit.mitmpl2023@learner.manipal.edu)
 - Discord: [buddywhitman#1784](https://discord.com/users/732152359882457138)
 - [Gpg Key](https://github.com/buddywhitman.gpg)
-
------
-Have a great day!
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=buddywhitman&show_icons=true&locale=en" alt="buddywhitman" /></p>
