@@ -1,5 +1,6 @@
 ## Systems engineer working across AI infrastructure and deterministic embedded systems
 
+> human-centered interaction principles for the age of agents and beyond
 ### Current areas:
 
 - Voice AI infrastructure @ Fettle
@@ -9,7 +10,6 @@
 ### Interests:
 Distributed systems · Reliability · Control theory · Embedded systems · Human-machine interfaces · LLM Training Lifecycle
 
-> human-centered interaction principles for the age of agents and beyond
 
 #### contact
 
