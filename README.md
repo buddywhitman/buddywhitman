@@ -8,7 +8,7 @@ Building **multilingual voice AI** @ [Fettle](https://letsfettle.com) · **solar
 
 ## Open Source Contributions
 
-> All PRs below are currently in review — code-owner responses pending.
+> All PRs below are currently in review - code-owner responses pending.
 
 | Repo | PR | What it does |
 |---|---|---|
