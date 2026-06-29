@@ -56,5 +56,5 @@ Cloud           AWS (ECS, Fargate, Lambda) · GCP (Cloud Run, Vertex AI) · Kube
 ## Contact
 
 📧 [pulkit.talks@gmail.com](mailto:pulkit.talks@gmail.com) · [university](mailto:pulkit.kumar@learner.manipal.edu)  
-🌐 [buddywhitman.tech](https://buddywhitman.tech) · [LinkedIn](https://linkedin.com/in/buddywhitman) · [ORC**i**D](https://orcid.org/0000-0003-4078-1780)  
-💬 Discord: `buddywhitman#1784`
+🌐 [buddywhitman.vercel.app](https://buddywhitman.vercel.app) · [LinkedIn](https://linkedin.com/in/buddywhitman) · [ORC**i**D](https://orcid.org/0000-0003-4078-1780)  
+💬 Discord: `buddywhitman`
